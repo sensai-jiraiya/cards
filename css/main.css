@@ -20,7 +20,7 @@ html {
   display: inline-block;
   margin: .5em 1em;
   max-width: 20em;
-  padding: 1em;
+  padding: .65em;
   background-color: #fff;
   border: 3px solid #e2e2e2;
   border-radius: 10px;
@@ -36,10 +36,12 @@ html {
   display: block;
   margin-bottom: 1rem;
   font-size: 1.125rem;
+  text-align: left;
 }
 
 .cards dl {
   margin-bottom: 1rem;
+  text-align: left;
 }
 
 .cards dt {
